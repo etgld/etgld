@@ -1,6 +1,6 @@
 # What I Do
 
-Natural anguage Processing and data science for clinical informatics.
+Natural language processing and data science for clinical informatics.
 
 # Repository Hosting
 
